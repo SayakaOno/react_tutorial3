@@ -6,9 +6,4 @@ const SeasonDisplay = (props) => {
   return <div>Season Display</div>;
 }
 
-ReactDOM.render(
-  <SeasonDisplay />,
-  document.getElementById('root')
-);
-
 export default SeasonDisplay
